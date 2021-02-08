@@ -4,4 +4,6 @@
 
 ![https://github.com/anuraghazra/convoychat](https://github-readme-stats.vercel.app/api/top-langs/?username=haranlakha&layout=compact&show_icons=true&theme=dracula)
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=haran43&cover_image=true&theme=natemoo-re)](https://spotify-github-profile.vercel.app/api/view?uid=haran43&redirect=true)
+
 ### **Available Here:** - [Twitter](https://twitter.com/haranlakha)
