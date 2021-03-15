@@ -8,4 +8,3 @@
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=haran43&cover_image=true&theme=natemoo-re)](https://spotify-github-profile.vercel.app/api/view?uid=haran43&redirect=true)
 
-### **Available Here:** - [Twitter](https://twitter.com/haranlakha)
