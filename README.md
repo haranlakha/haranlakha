@@ -1,8 +1,8 @@
-<h1 align="left">Hey</h1>
+<h1 align="left">Hey there</h1>
 
 ###
 
-<p align="left">My name is Haran and I'm a Software Engineer from the UK</p>
+<p align="left">My name is Haran and I'm a Software Engineer from the UK!</p>
 
 ###
 
@@ -29,6 +29,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
 </div>
+
+<h2 align="left">Connect</h2>
 
 ###
 
