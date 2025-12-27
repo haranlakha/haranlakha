@@ -2,7 +2,8 @@
 
 ###
 
-<p align="left">My name is Haran and I'm a Software Engineer from the UK!</p>
+<p align="left">Welcome to my page!
+My name is Haran and I'm a Software Engineer from the UK</p>
 
 ###
 
@@ -30,8 +31,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
 </div>
 
-<h2 align="left">Connect</h2>
-
 ###
 
 <div align="left">
@@ -45,10 +44,10 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/haranlakha/haranlakha/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/haranlakha/haranlakha/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/haranlakha/haranlakha/output/pacman-contribution-graph.svg">
-</picture>
+<div align="left">
+  <a href="https://open.spotify.com/user/haran43">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=haran43&count=5&unique=false" alt="Spotify recently played"  />
+  </a>
+</div>
 
 ###
