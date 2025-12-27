@@ -1,17 +1,9 @@
-<h1 align="left">Hey there</h1>
+<h1 align="left">Welcome to my page!</h1>
 
 ###
 
-<p align="left">Welcome to my page!
+<p align="left">
 My name is Haran and I'm a Software Engineer from the UK</p>
-
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">✨ Creating bugs since forever</p>
 
 ###
 
