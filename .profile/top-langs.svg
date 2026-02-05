@@ -1,4 +1,0 @@
-with:
-  card: top-langs
-  options: username=octocat&layout=compact&langs_count=6
-  token: ${{ secrets.GITHUB_TOKEN }}
