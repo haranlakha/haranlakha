@@ -23,7 +23,6 @@ My name is Haran and I'm a Software Engineer from the UK</p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
 </div>
 
-![Stats](./.profile/top-langs.svg)
 ###
 
 <h2 align="left">Connect with me</h2>
