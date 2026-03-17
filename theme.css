@@ -1,1 +1,6 @@
-a {text-decoration: none; }
+a img{
+  border: 0 none;
+}
+.image-link{
+  text-decoration: none;
+}
