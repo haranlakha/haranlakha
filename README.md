@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="theme.css">
+
 <h1 align="left">Welcome to my page!</h1>
 
 ###
@@ -31,16 +33,15 @@ My name is Haran and I'm a Software Engineer from the UK</p>
 
 ###
 
-<div align="left">
+<div style="text-decoration:none">
   <a href="https://www.linkedin.com/in/haranlakha/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="52" alt="linkedin logo"  />
   </a>
   <a href="https://www.instagram.com/haranlakha" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="52" alt="instagram logo"  />
   </a>
-
   <a href="https://letterboxd.com/haranlakha/" target="_blank">
-    <img src="https://github.com/haranlakha/haranlakha/blob/main/social/letterboxd.svg" width="52" height="40" alt="letterboxd logo"  />
+    <img src="https://github.com/haranlakha/haranlakha/blob/main/social/letterboxd.svg" width="52" height="52" alt="letterboxd logo"  />
   </a>
 </div>
 
