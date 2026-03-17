@@ -1,5 +1,3 @@
-<link rel="stylesheet" href="theme.css">
-
 <h1 align="left">Welcome to my page!</h1>
 
 ###
@@ -33,7 +31,7 @@ My name is Haran and I'm a Software Engineer from the UK</p>
 
 ###
 
-<div class="image-link">
+<div>
   <a href="https://www.linkedin.com/in/haranlakha/" target="_blank">
     <img src="https://github.com/haranlakha/haranlakha/blob/main/social/linkedin.svg" width="52" height="52" alt="linkedin logo"  />
   </a>
