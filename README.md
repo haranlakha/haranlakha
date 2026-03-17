@@ -40,7 +40,7 @@ My name is Haran and I'm a Software Engineer from the UK</p>
   </a>
 
   <a href="https://letterboxd.com/haranlakha/" target="_blank">
-    <img src="https://github.com/haranlakha/haranlakha/blob/main/social/letterboxd.svg" width="52" height="40" alt="letterboxd"  />
+    <img src="https://github.com/haranlakha/haranlakha/blob/main/social/letterboxd.svg" width="52" height="40" alt="letterboxd logo"  />
   </a>
 </div>
 
