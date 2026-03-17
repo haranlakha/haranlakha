@@ -33,7 +33,7 @@ My name is Haran and I'm a Software Engineer from the UK</p>
 
 ###
 
-<div>
+<div class="image-link">
   <a href="https://www.linkedin.com/in/haranlakha/" target="_blank">
     <img src="https://github.com/haranlakha/haranlakha/blob/main/social/linkedin.svg" width="52" height="52" alt="linkedin logo"  />
   </a>
