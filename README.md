@@ -38,6 +38,9 @@ My name is Haran and I'm a Software Engineer from the UK</p>
   <a href="https://www.instagram.com/haranlakha" target="_blank">
     <img src="https://github.com/haranlakha/haranlakha/blob/main/social/instagram.svg" width="52" height="52" alt="instagram logo"  />
   </a>
+  <a href="https://bsky.app/profile/haranlakha.com" target="_blank">
+    <img src="https://github.com/haranlakha/haranlakha/blob/main/social/bluesky.svg" width="52" height="52" alt="bluesky logo"  />
+  </a>
   <a href="https://letterboxd.com/haranlakha/" target="_blank">
     <img src="https://github.com/haranlakha/haranlakha/blob/main/social/letterboxd.svg" width="52" height="52" alt="letterboxd logo"  />
   </a>
