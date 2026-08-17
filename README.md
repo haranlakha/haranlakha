@@ -3,7 +3,9 @@
 ###
 
 <p align="left">
-My name is Haran and I'm a Software Engineer from the UK</p>
+My name is Haran and I'm a Software Engineer from the UK.
+<br>
+I have experience working with Apex, Java and the Salesforce platform, along with frontend experience in JavaScript and HTML/CSS!</p>
 
 ###
 
