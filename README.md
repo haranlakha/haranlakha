@@ -14,7 +14,7 @@ I have experience working with Apex, Java and the Salesforce platform, along wit
 ###
 
 <a href="https://github.com/Pranesh-2005/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=haranlakha&show_icons=true&theme=onedark&langs_count=8" />
+  <img height=200 align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=haranlakha&show_icons=true&theme=onedark&langs_count=10&layout=compact" />
 </a>
 
 ###
