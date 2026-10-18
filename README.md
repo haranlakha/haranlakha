@@ -56,3 +56,7 @@ I have experience working with Apex, Java and the Salesforce platform, along wit
 </div>
 
 ###
+
+<h2 align="left">What I'm watching</h2>  
+
+[![Letterboxd Recent Watches](https://letterboxd-readme-stats.vercel.app/api?username=haranlakha&theme=letterboxd&count=4)](https://letterboxd.com/haranlakha/)
