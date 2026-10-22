@@ -3,11 +3,9 @@
 ###
 
 <p align="left">
-Software Engineer with 4+ years of experience building, deploying and running scalable RESTful APIs for a
-customer-facing platform, keeping it highly available, including hands-on Salesforce development in Apex, Lightning
-Web Components, SOQL, triggers and Flows. Managed bi-weekly releases within Agile Scrum, mentored the
-development team and delivered bespoke client integrations, including an API for an overseas customer. First-class
-Computer Science graduate with Java, Spring, AWS, CI/CD and React experience.
+Software Engineer with 4+ years of experience building and running scalable RESTful APIs for a customer-facing
+platform, plus hands-on Salesforce development in Apex, Lightning Web Components, SOQL, triggers and Flows.
+First-class Computer Science graduate with Java, Spring, AWS and CI/CD experience.
 
 ###
 
