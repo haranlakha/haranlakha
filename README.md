@@ -13,8 +13,8 @@ First-class Computer Science graduate with Java, Spring, AWS and CI/CD experienc
 
 ###
 
-<a href="https://github.com/Pranesh-2005/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=haranlakha&show_icons=true&theme=onedark&langs_count=10&layout=compact" />
+<a href="https://github.com/stats-organization/github-stats-extended">
+  <img height=200 align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=haranlakha&show_icons=true&theme=onedark&langs_count=10&layout=compact" />
 </a>
 
 ###
@@ -23,8 +23,8 @@ First-class Computer Science graduate with Java, Spring, AWS and CI/CD experienc
 
 ###
 
-<a href="https://github.com/Pranesh-2005/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats-fast.vercel.app/api?username=haranlakha&show_icons=true&theme=onedark" />
+<a href="https://github.com/stats-organization/github-stats-extended">
+  <img height=200 align="center" src="https://github-stats-extended.vercel.app/api?username=haranlakha&show_icons=true&theme=onedark&langs_count=10&layout=compact" />
 </a>
 
 ###
